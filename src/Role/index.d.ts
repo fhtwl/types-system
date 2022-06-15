@@ -1,7 +1,7 @@
 declare namespace System {
   export interface Role {
     id: number;
-    menuList: Menu.Menu[];
+    menuList: System.Menu[];
     parentId: number;
     name: string;
   }
