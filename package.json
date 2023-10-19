@@ -1,6 +1,6 @@
 {
   "name": "@fhtwl-admin/system",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "后台管理系--系统模块模型",
   "main": "index.d.ts",
   "scripts": {

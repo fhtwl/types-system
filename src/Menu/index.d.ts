@@ -16,5 +16,9 @@ declare namespace System {
     type: MenuType;
   }
 
-  export type MenuType = 1 | 2 | 3;
+  export enum MenuType {
+    "DIRECTORY" = 1, // 目录
+    "PAGE", // 页面
+    "BUTTON", // 按钮
+  }
 }
